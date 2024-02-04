@@ -1,0 +1,25 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 100%;
+    height: 100%;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border: 10px white solid;
+}
+body{
+    font-size: 25px;
+    font-weight: bold;
+}
+.grid{
+    float:left;
+    width: 50%;
+    height: 50%;
+}
